@@ -6,7 +6,7 @@ Windows system with manual DNS configuration.
 
 ## Steps Taken
 - Verified network connectivity using 'ping 8.8.8.8' (successful)
-- Attempted to reach domain using 'ping google.com' (failed)
+- Tested DNS resolution using 'ping google.com' (failed)
 
 ![](images/network-issue/Attempted_domain.png)
 

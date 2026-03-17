@@ -9,11 +9,14 @@ Windows system with manually configured IP settings.
 - Tested local connectivity using 'ping 192.168.1.1' (failed)
 - Checked network configuratio using 'ipconfig'
 - Identified incorrect default gateway address (192.168.1.254)
-- Tested common gateway address '192.168.1.1' (successful)
+
+![](images/no-internet/ipconfig.png)
 
 ## Steps Taken
 - Updated default gateway to 192.168.1.1
 - Verified connectivity using 'ping 192.168.1.1', 'ping 8.8.8.8', and 'ping google.com'
+
+![](imgages/no-internet/Test_common_rip.png)
 
 ## Resolution
 Corrected default gateway configuration to restore proper routing.

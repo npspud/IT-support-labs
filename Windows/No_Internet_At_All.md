@@ -16,7 +16,7 @@ Windows system with manually configured IP settings.
 - Updated default gateway to 192.168.1.1
 - Verified connectivity using 'ping 192.168.1.1', 'ping 8.8.8.8', and 'ping google.com'
 
-![](imgages/no-internet/Test_common_rip.png)
+![](imgaes/no-internet/Test_common_rip.png)
 
 ## Resolution
 Corrected default gateway configuration to restore proper routing.

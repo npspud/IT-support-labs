@@ -32,6 +32,7 @@ Windows system with manual DNS configuration.
 ## Resolution
 - Updated DNS servers to 8.8.8.8 and 1.1.1.1
 - Flushed DNS cache using 'ipconfig /flushdns'
+- Re-enabled IPv6 to restore full network stack functionality
 
 ## Outcome
 Successfully restored internet functionality by correcting DNS configuration.

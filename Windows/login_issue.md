@@ -9,13 +9,16 @@ Windows system using a dual-boot setup with a local user account.
 - Navigated to user account settings but no password reset option available
   
 ![No Gui Reset Available](images/login_issue.md/No_gui_reset.png
+
 - Opened Command Prompt with administrative privileges
 - Used 'net user' to verify account
   
 ![List Users](images/login_issue.md/User_search.png
+
 - Used 'net user' command with the username to reset password
 
 ![Password Reset](images/login_issue.md/Password_reset.png
+
 - Verified successful login with updated credentials
 
 ## Tools Used

@@ -5,7 +5,7 @@ User reports internet is connected but websites fail to load.
 Windows system with manual DNS configuration.
 
 ## Steps Taken
-- Verified connectivity using 'ping 8.8.8.8' (successful)
+- Verified network connectivity using 'ping 8.8.8.8' (successful)
 - Attempted to reach domain using 'ping google.com' (failed)
 
 ![](images/network-issue/Attempted_domain.png)

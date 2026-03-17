@@ -6,8 +6,8 @@ Windows system with manually configured IP settings.
 
 ## Diagnostic Process
 - Attempted to access websites (failed)
-- Tested local connectivity using 'ping 192.168.1.1' (failed)
-- Checked network configuratio using 'ipconfig'
+- Tested local connectivity using 'ping 192.168.1.1' (successful)
+- Checked network configuration using 'ipconfig'
 - Identified incorrect default gateway address (192.168.1.254)
 
 ![](images/no-internet/ipconfig.png)

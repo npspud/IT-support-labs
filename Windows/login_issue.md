@@ -8,16 +8,16 @@ Windows system using a dual-boot setup with a local user account.
 - Attempted to login and confirmed authentication failure
 - Navigated to user account settings but no password reset option available
   
-![No Gui Reset Available](images/login-issue/No_gui_reset.png
+![No Gui Reset Available](Windows/images/login-issue/No_gui_reset.png
 
 - Opened Command Prompt with administrative privileges
 - Used 'net user' to verify account
   
-![List Users](images/login-issue/User_search.png
+![List Users](Windows/images/login-issue/User_search.png
 
 - Used 'net user' command with the username to reset password
 
-![Password Reset](images/login-issue/Password_reset.png
+![Password Reset](Windows/images/login-issue/Password_reset.png
 
 - Verified successful login with updated credentials
 

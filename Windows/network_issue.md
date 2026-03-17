@@ -24,7 +24,7 @@ Windows system with manual DNS configuration.
 ![](images/network-issue/verify_domain.png)
 
 ## Tools Used
-- Command Prompt
+- Windows Command Prompt
 - ping
 - nslookup
 - ipconfig

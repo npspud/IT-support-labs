@@ -11,7 +11,7 @@ Windows system with manual DNS configuration.
 ![](images/network-issue/Attempted_domain.png)
 
 - Used 'nslookup google.com' to test DNS resolution
-- Identified incorrect DNS server (0.0.0.0)
+- Confirmed DNS failure via 'nslookup google.com' returning invalid server (0.0.0.0)
 
 ![](images/network-issue/nslookup.png)
   
